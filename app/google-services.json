@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "747463271602",
+    "project_id": "ex88hog2069fcmpush2021",
+    "storage_bucket": "ex88hog2069fcmpush2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747463271602:android:ec21cc3a4b1f756fee15ab",
+        "android_client_info": {
+          "package_name": "com.hog2020.ex88firebasecloudmessagingpush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747463271602-s55aafgc1g75r1g3s4f01tbjont0s1s8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZgi2_iFZiIUEVCAydxqr-cFA_zCzEO1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747463271602-s55aafgc1g75r1g3s4f01tbjont0s1s8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
